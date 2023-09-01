@@ -1,6 +1,6 @@
 <a id='ancora'></a>
-
 # Projeto Oficina de Reparo Automotivo - Gestão de Dados 🚗🔧
+
 <br><br>
 
 - [Sobre o Projeto](#ancora1) <br>
@@ -10,11 +10,12 @@
 <br><br>
 
 <a id="ancora1"></a>
-
 ## Sobre o Projeto ✔️
+
 <br>
+
 Este projeto trata da modelagem de um banco de dados lógico para uma Oficina de Reparo Automotivo, incluindo as seguintes tabelas:
-<br>
+
 * Clientes
 * Veículos dos Clientes
 * Pagamento
@@ -27,13 +28,16 @@ Este projeto trata da modelagem de um banco de dados lógico para uma Oficina de
 * Fornecedor
 * Peças por Serviço
 
+
 ![Diagrama Oficina foto](https://github.com/GabrielVila/Project_mechanicShop/assets/106407096/e336b81e-0c59-42d2-bc0a-cca92b615bc4)
 
 <br>
-<a id="ancora2"></a>
 
+<a id="ancora2"></a>
 ## Perguntas Respondidas 📝
+
 <br>
+
 Este projeto visa responder a várias perguntas essenciais relacionadas à gestão da Oficina de Reparo Automotivo, tais como:
 
 * Qual é o histórico de serviços realizados para cada cliente e qual o valor total gasto por eles?
@@ -43,12 +47,14 @@ Este projeto visa responder a várias perguntas essenciais relacionadas à gest�
 * Como está o controle de pedidos e pagamentos dos clientes?
 * Quais são os automóveis mais comuns na oficina?
 * Qual foi o serviço mais caro solicitado por um cliente e quem foi esse cliente?
+
 <br>
 
 <a id="ancora3"></a>
-
 ## Competências Desenvolvidas 💡
+
 <br>
+
 Durante a elaboração deste projeto, foram desenvolvidas as seguintes habilidades em gestão de dados e SQL:
 
 * Modelagem de banco de dados com entidades e relacionamentos.
