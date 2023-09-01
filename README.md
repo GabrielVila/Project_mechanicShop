@@ -14,7 +14,7 @@
 ## Sobre o Projeto ✔️
 <br>
 Este projeto trata da modelagem de um banco de dados lógico para uma Oficina de Reparo Automotivo, incluindo as seguintes tabelas:
-
+<br>
 * Clientes
 * Veículos dos Clientes
 * Pagamento
