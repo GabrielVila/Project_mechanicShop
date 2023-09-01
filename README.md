@@ -11,7 +11,7 @@
 
 <a id="ancora1"></a>
 
-Sobre o Projeto ✔️
+## Sobre o Projeto ✔️
 <br>
 Este projeto trata da modelagem de um banco de dados lógico para uma Oficina de Reparo Automotivo, incluindo as seguintes tabelas:
 
@@ -32,7 +32,7 @@ Peças por Serviço
 <br>
 <a id="ancora2"></a>
 
-Perguntas Respondidas 📝
+## Perguntas Respondidas 📝
 <br>
 Este projeto visa responder a várias perguntas essenciais relacionadas à gestão da Oficina de Reparo Automotivo, tais como:
 
@@ -44,9 +44,10 @@ Como está o controle de pedidos e pagamentos dos clientes?
 Quais são os automóveis mais comuns na oficina?
 Qual foi o serviço mais caro solicitado por um cliente e quem foi esse cliente?
 <br>
+
 <a id="ancora3"></a>
 
-Competências Desenvolvidas 💡
+## Competências Desenvolvidas 💡
 <br>
 Durante a elaboração deste projeto, foram desenvolvidas as seguintes habilidades em gestão de dados e SQL:
 
